@@ -1,3 +1,4 @@
+#python
 # light-more-ligh
 from math import sqrt
 
