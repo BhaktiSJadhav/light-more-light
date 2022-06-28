@@ -7,3 +7,16 @@ while True:
     break
   div = sqrt(num)
   print("yes" if div == int(div) else "no")
+
+  /*
+Input:-
+3
+6241
+8191
+0
+
+Output:-
+no
+yes
+no
+*/
